@@ -5,3 +5,7 @@
 # assignment variable for a string
 # using a count()
 # print
+
+# # # CODE # # #
+sentence = "Emma is good developer. Emma is a writer."
+print("Emma appeared", sentence.count("Emma"), "times.")
