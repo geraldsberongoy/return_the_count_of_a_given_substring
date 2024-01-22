@@ -8,4 +8,5 @@
 
 # # # CODE # # #
 sentence = "Emma is good developer. Emma is a writer."
+print(sentence)
 print("Emma appeared", sentence.count("Emma"), "times.")
